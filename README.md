@@ -61,4 +61,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ### My GitHub Stats
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnomenja&theme=default
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnomenja&theme=default" alt="GitHub Stats" />
+</p>
