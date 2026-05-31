@@ -61,6 +61,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### My GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnomenja&theme=default" alt="GitHub Stats" />
-</p>
+ <table>
+  <tr>
+    <td>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nnomenja&theme=default" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nnomenja&theme=redical&hide_border=true&bg_color=0D1117&line=2ec4e6&point=ff6e40" height="180" />
+    </td>
+  </tr>
+</table>
